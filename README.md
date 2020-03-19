@@ -11,13 +11,6 @@ This repository contains the implementation of the method DiscreteBO proposed in
 - Numdifftools 0.9.39
 
 ## Reference
-```
-@inproceedings{luong2019bayesian,
-  title={Bayesian Optimization with Discrete Variables},
-  author={Luong, Phuc and Gupta, Sunil and Nguyen, Dang and Rana, Santu and Venkatesh, Svetha},
-  booktitle={Australasian Joint Conference on Artificial Intelligence},
-  pages={473--484},
-  year={2019},
-  organization={Springer}
-}
-```
+- Paper [Bayesian Optimization with Discrete Variables](https://link.springer.com/chapter/10.1007/978-3-030-35288-2_38)
+## License
+Apache 2.0
