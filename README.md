@@ -8,7 +8,6 @@ The implementation of DiscreteBO method proposed in the paper 'Bayesian Optimiza
 - Numpy 1.18
 - Scipy 1.4
 - GPy 1.9.9
-- Numdifftools 0.9.39
 
 ## Reference
 
